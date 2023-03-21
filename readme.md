@@ -7,7 +7,7 @@ This is an **_animated AVIF_** creator with a Java GUI and C++ AVIF encoder.
 
 ## Usage
 * Run the executable JAR, with all necessary DLLs in the same folder or easily available in system path.
-  * If doesn't load, obtain the extra Visual Studio C++ retributable DLLs from [JPEGView.zip/JPEGView/Extras folder](https://github.com/sdneon/jpegview/releases/download/v1.1.42.2/JPEGView.zip) - unzip to same folder.
+  * If doesn't load, obtain the extra Visual Studio C++ redistributable DLLs from [JPEGView.zip/JPEGView/Extras folder](https://github.com/sdneon/jpegview/releases/download/v1.1.42.2/JPEGView.zip) - unzip to same folder.
 * ALT+I or click "Choose images" to select a few images for your animation.
 * ALT+O or click "Choose output filename:" to select a filename to save to.
 * ALT+C or click "Create AVIF" to start generating the animated AVIF. It will take a LONG time, as the encoding process is very slow, in order to get a fantastically small output file.
